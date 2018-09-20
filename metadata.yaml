@@ -1,0 +1,29 @@
+_repo: The-Scratch-Pack_53175
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conyers, Dorothea
+    birthdate: 1873
+    deathdate: 1949
+    gutenberg_agent_id: '47249'
+    url: http://www.gutenberg.org/2009/agents/47249
+description: ''
+gutenberg_issued: '2016-09-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53175'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mate selection -- Fiction'
+- !lcsh 'Heiresses -- Fiction'
+- !lcsh 'Families -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Spy stories'
+- !lcsh 'Fox hunting -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Ireland -- Fiction'
+- GITenberg
+title: The Scratch Pack
+url: http://www.gutenberg.org/ebooks/53175
